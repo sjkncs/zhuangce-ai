@@ -1,0 +1,180 @@
+{
+  "n_users": 280,
+  "n_categories": 2290,
+  "n_factors": 20,
+  "explained_variance": 0.7027,
+  "sparsity": 0.9845,
+  "hit_rate_top5": 0.288,
+  "sample_recommendations": [
+    {
+      "user_id": 414388,
+      "recommended_categories": [
+        11241,
+        3960,
+        5993,
+        11623,
+        12630
+      ],
+      "predicted_scores": [
+        4.3251,
+        2.4159,
+        1.9927,
+        1.9763,
+        1.2821
+      ]
+    },
+    {
+      "user_id": 1619789,
+      "recommended_categories": [
+        5894,
+        1863,
+        6000,
+        14079,
+        2883
+      ],
+      "predicted_scores": [
+        0.1747,
+        0.1544,
+        0.1453,
+        0.1414,
+        0.1014
+      ]
+    },
+    {
+      "user_id": 2242451,
+      "recommended_categories": [
+        8095,
+        5894,
+        14079,
+        6513,
+        3628
+      ],
+      "predicted_scores": [
+        0.4221,
+        0.2633,
+        0.2364,
+        0.2048,
+        0.1801
+      ]
+    },
+    {
+      "user_id": 2590763,
+      "recommended_categories": [
+        2825,
+        2953,
+        4296,
+        3064,
+        1083
+      ],
+      "predicted_scores": [
+        0.6559,
+        0.6245,
+        0.4841,
+        0.4797,
+        0.3686
+      ]
+    },
+    {
+      "user_id": 2695854,
+      "recommended_categories": [
+        8877,
+        6344,
+        3271,
+        3798,
+        8291
+      ],
+      "predicted_scores": [
+        2.3572,
+        1.689,
+        1.668,
+        1.6126,
+        1.5046
+      ]
+    },
+    {
+      "user_id": 2814416,
+      "recommended_categories": [
+        8095,
+        5689,
+        3798,
+        5232,
+        1838
+      ],
+      "predicted_scores": [
+        3.8203,
+        3.0714,
+        2.9266,
+        2.8554,
+        2.5527
+      ]
+    },
+    {
+      "user_id": 2839379,
+      "recommended_categories": [
+        1843,
+        3673,
+        2993,
+        8095,
+        6000
+      ],
+      "predicted_scores": [
+        0.3634,
+        0.3135,
+        0.2587,
+        0.2388,
+        0.217
+      ]
+    },
+    {
+      "user_id": 2967122,
+      "recommended_categories": [
+        10894,
+        6000,
+        6344,
+        3381,
+        1843
+      ],
+      "predicted_scores": [
+        0.6973,
+        0.6558,
+        0.569,
+        0.5528,
+        0.4855
+      ]
+    },
+    {
+      "user_id": 3350428,
+      "recommended_categories": [
+        2953,
+        6054,
+        1083,
+        9261,
+        11824
+      ],
+      "predicted_scores": [
+        2.916,
+        2.1144,
+        2.0278,
+        1.2825,
+        1.1859
+      ]
+    },
+    {
+      "user_id": 3914310,
+      "recommended_categories": [
+        10661,
+        6344,
+        436,
+        6000,
+        9516
+      ],
+      "predicted_scores": [
+        2.2112,
+        1.694,
+        1.6759,
+        1.6537,
+        1.526
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": {
+    "dashboard_potential_score": 8.2,
+    "dashboard_trend_data": [
+      {
+        "date": "Day1",
+        "score": 7.5
+      },
+      {
+        "date": "Day2",
+        "score": 7.8
+      },
+      {
+        "date": "Day3",
+        "score": 8.2
+      }
+    ],
+    "dashboard_scene_distribution": [
+      {
+        "name": "宿舍日常",
+        "value": 46
+      },
+      {
+        "name": "开学季",
+        "value": 32
+      },
+      {
+        "name": "日常复购",
+        "value": 22
+      }
+    ],
+    "dashboard_persona_distribution": [
+      {
+        "name": "学生党",
+        "value": 58
+      },
+      {
+        "name": "价格敏感型",
+        "value": 24
+      },
+      {
+        "name": "年轻女性用户",
+        "value": 18
+      }
+    ],
+    "dashboard_top_recommendations": [
+      "玫瑰护手霜",
+      "玫瑰香氛喷雾"
+    ],
+    "dashboard_match_scores": [
+      92,
+      85
+    ],
+    "dashboard_insight_1": "宿舍场景是当前最强内容切入口。",
+    "dashboard_insight_2": "学生党更关注顺滑感与价格接受度。",
+    "dashboard_insight_3": "香氛表达有助于提升内容点击意愿。",
+    "dashboard_notice": "当前为公开样本数据与模拟验证结果。"
+  }
+}

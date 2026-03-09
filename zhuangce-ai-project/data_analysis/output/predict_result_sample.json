@@ -1,0 +1,160 @@
+{
+  "product_name": "DEAR SEED 玫瑰修护洗发水",
+  "primary_category": "洗护",
+  "secondary_category": "修护洗发",
+  "predict": {
+    "potential_score": 7.5,
+    "score_explanation": "六维度综合评分：内容传播+购买转化+人群匹配+时间窗口+商品关联+价格竞争力加权均值7.50，具备较强校赛阶段参赛潜力。",
+    "score_dimensions": {
+      "content_viral_score": {
+        "score": 7.5,
+        "weight": 0.20,
+        "algorithm": "UCB/Thompson Sampling",
+        "evidence": "教程合集转化率3.67%最优（UCB最优臂），content_viral贡献最高",
+        "description": "内容传播潜力"
+      },
+      "purchase_conversion_score": {
+        "score": 8.5,
+        "weight": 0.20,
+        "algorithm": "GBDT购买预测",
+        "evidence": "AUC=0.9993，正类精准率极高，目标人群购买意图明确",
+        "description": "购买转化概率"
+      },
+      "persona_match_score": {
+        "score": 7.0,
+        "weight": 0.20,
+        "algorithm": "K-Means聚类 + RFM分层",
+        "evidence": "学生党聚类中心命中率较高，但RFM价值层级偏低频低消费",
+        "description": "人群精准匹配"
+      },
+      "time_window_score": {
+        "score": 8.0,
+        "weight": 0.15,
+        "algorithm": "ARIMA时序预测",
+        "evidence": "开学季(8/20-9/10) boost=1.15，换季期boost=1.10，当前窗口质量高",
+        "description": "时间窗口质量"
+      },
+      "product_association_score": {
+        "score": 7.5,
+        "weight": 0.15,
+        "algorithm": "LightGCN图推荐 + Apriori关联规则",
+        "evidence": "LightGCN HR@10=0.8413，修护洗发与护发精华关联提升lift>1.2",
+        "description": "商品关联强度"
+      },
+      "price_competitiveness_score": {
+        "score": 6.5,
+        "weight": 0.10,
+        "algorithm": "OLS价格弹性回归",
+        "evidence": "价格弹性β=-0.9515，100-150元价格带销量低于<50元最优区间，存在定价压力",
+        "description": "价格竞争力"
+      }
+    },
+    "factors": {
+      "efficacy_score": 7.83,
+      "persona_score": 5.5,
+      "scene_score": 8.0,
+      "price_score": 9.0
+    },
+    "target_persona": [
+      "学生党女性用户"
+    ],
+    "best_time": "开学季（8月20日 - 9月10日）",
+    "best_time_windows": [
+      {
+        "window": "开学季（8月20日 - 9月10日）",
+        "reason": "学生党集中采购宿舍洗护用品，内容互动频率高",
+        "confidence": "高",
+        "boost": 1.15
+      },
+      {
+        "window": "换季期（3月、9-10月）",
+        "reason": "气候变化导致头发毛躁，修护洗护内容热度上升",
+        "confidence": "高",
+        "boost": 1.1
+      },
+      {
+        "window": "618大促期间（6月1日 - 18日）",
+        "reason": "电商大促带动洗护品类整体搜索量，内容种草需求增加",
+        "confidence": "中",
+        "boost": 1.08
+      }
+    ],
+    "risk_alert": [
+      "当前卖点组合表现良好，建议持续监控竞品动态，及时调整内容策略。"
+    ],
+    "key_tags": [
+      "修护",
+      "柔顺",
+      "玫瑰香氛",
+      "日常复购"
+    ]
+  },
+  "recommend": {
+    "recommended_products": [
+      {
+        "product_name": "氨基酸护发精华（示意）",
+        "match_score": 41,
+        "reason": "卖点标签匹配(1项)；场景适配(1项)",
+        "scenario": "日常复购、换季护理",
+        "price_band": "100-150元",
+        "cf_similarity": 0.4364
+      },
+      {
+        "product_name": "校园洗护礼盒套装（示意）",
+        "match_score": 37,
+        "reason": "卖点标签匹配(2项)",
+        "scenario": "开学季、节日送礼",
+        "price_band": "100-150元",
+        "cf_similarity": 0.4364
+      },
+      {
+        "product_name": "玫瑰香氛喷雾（示意）",
+        "match_score": 25,
+        "reason": "场景适配(1项)",
+        "scenario": "宿舍日常、日常复购",
+        "price_band": "50-100元",
+        "cf_similarity": 0.2182
+      }
+    ],
+    "recommended_scenes": [
+      "日常复购"
+    ],
+    "recommended_personas": [
+      "学生党女性用户"
+    ],
+    "recommended_platforms": [
+      "抖音电商",
+      "抖音私域/粉丝群",
+      "小红书（辅助种草）"
+    ],
+    "recommended_content_direction": [
+      "高性价比修护洗发",
+      "修护、柔顺使用体验",
+      "真实分享感种草"
+    ],
+    "decision_summary": "优先围绕日常复购场景与学生党女性用户做种草表达，用真实体验打动用户，再通过搭配商品提升转化率。"
+  },
+  "content": {
+    "douyin_titles": [
+      "学生党修护！100多块的洗发水，懂你",
+      "日常宿舍洗护怎么选？这瓶修护路线真的很懂你",
+      "修护、柔顺、还好闻：学生党女性用户也能负担的日常复购选择"
+    ],
+    "douyin_live_scripts": [
+      "姐妹们，日常日常复购如果还没想好，可以优先看修护柔顺路线，这种香味好接受、价格也还友好的产品。",
+      "如果你们最近头发有点毛躁，又不想一次性花太多预算，修护这种方向其实挺适合学生党女性用户。",
+      "我觉得日常复购选洗发水最重要的是三点：顺、好闻、别踩雷，这类修护型基本就围绕这三点展开。"
+    ],
+    "douyin_video_hooks": [
+      "如果你是学生党女性用户，最近又在纠结日常复购洗发水怎么选，那这个修护柔顺路线你可以先收藏。",
+      "今天不讲太复杂的成分，我们只聊一件事：什么样的洗发水更适合学生党女性用户日常用。",
+      "为什么有些洗发水看起来都差不多，但就是有的更容易被学生党女性用户买单？关键在场景和表达。"
+    ],
+    "tone_style": "真实分享 + 高性价比种草",
+    "selling_point_expression": "修护、柔顺、玫瑰香氛",
+    "scenario_expression": "日常复购",
+    "platform": "抖音电商"
+  },
+  "data_notice": "当前结果基于公开样本数据与模拟验证逻辑生成，不等同于真实投放结果。",
+  "stage_notice": "当前为校赛MVP概念验证版本"
+}

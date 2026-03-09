@@ -1,0 +1,40 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": {
+    "recommended_products": [
+      {
+        "product_name": "DEAR SEED 玫瑰护手霜",
+        "match_score": 92,
+        "reason": "同香型、同场景、适合组合购买",
+        "scenario": "宿舍日常"
+      },
+      {
+        "product_name": "玫瑰香氛喷雾（示意）",
+        "match_score": 85,
+        "reason": "增强情绪价值表达",
+        "scenario": "日常氛围感护理"
+      }
+    ],
+    "recommended_scenes": [
+      "宿舍日常",
+      "开学季采购",
+      "节日送礼"
+    ],
+    "recommended_personas": [
+      "学生党",
+      "价格敏感型用户"
+    ],
+    "recommended_platforms": [
+      "小红书",
+      "社群私域",
+      "视频号"
+    ],
+    "recommended_content_direction": [
+      "高性价比宿舍洗护",
+      "修护柔顺不毛躁",
+      "玫瑰香氛体验"
+    ],
+    "decision_summary": "优先围绕宿舍场景与学生党做种草表达。"
+  }
+}

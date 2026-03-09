@@ -1,0 +1,11 @@
+﻿page,module,field_name,field_label,type,required,example,note
+首页,顶部信息,project_name,项目名称,string,Y,妆策AI,固定展示
+首页,顶部信息,project_slogan,项目口号,string,Y,让品牌用预测代替试错,固定展示
+首页,产品卡,sample_product_name,样板产品名称,string,Y,DEAR SEED 玫瑰修护洗发水,样板产品
+首页,数据卡,potential_score,传播潜力评分,number,Y,8.2,1-10
+预测页,输入,product_name,产品名称,string,Y,DEAR SEED 玫瑰修护洗发水,表单输入
+预测页,输入,selling_points,核心卖点,string[],Y,修护|柔顺|玫瑰香氛,表单输入
+预测页,输出,score_explanation,评分解释,string,Y,卖点组合与平台热点标签匹配度较高,结果字段
+推荐页,列表,recommended_products,推荐商品列表,object[],Y,见JSON,数组对象
+内容页,文案,xiaohongshu_titles,小红书标题,string[],Y,学生党宿舍洗护好物,数组
+看板页,趋势,dashboard_trend_data,趋势数据,object[],Y,见JSON,图表数据

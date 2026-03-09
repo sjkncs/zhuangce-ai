@@ -1,0 +1,882 @@
+{
+  "552": [
+    {
+      "category_id": 3381,
+      "similarity": 0.0903
+    },
+    {
+      "category_id": 3424,
+      "similarity": 0.0652
+    },
+    {
+      "category_id": 11623,
+      "similarity": 0.0629
+    },
+    {
+      "category_id": 4370,
+      "similarity": 0.057
+    },
+    {
+      "category_id": 3628,
+      "similarity": 0.0479
+    }
+  ],
+  "1083": [
+    {
+      "category_id": 8877,
+      "similarity": 0.1159
+    },
+    {
+      "category_id": 13230,
+      "similarity": 0.112
+    },
+    {
+      "category_id": 2825,
+      "similarity": 0.1055
+    },
+    {
+      "category_id": 6513,
+      "similarity": 0.0989
+    },
+    {
+      "category_id": 6054,
+      "similarity": 0.0778
+    }
+  ],
+  "1838": [
+    {
+      "category_id": 5027,
+      "similarity": 0.1914
+    },
+    {
+      "category_id": 6344,
+      "similarity": 0.1433
+    },
+    {
+      "category_id": 5399,
+      "similarity": 0.1152
+    },
+    {
+      "category_id": 9247,
+      "similarity": 0.0854
+    },
+    {
+      "category_id": 13230,
+      "similarity": 0.0539
+    }
+  ],
+  "1863": [
+    {
+      "category_id": 5395,
+      "similarity": 0.1717
+    },
+    {
+      "category_id": 13230,
+      "similarity": 0.1475
+    },
+    {
+      "category_id": 2825,
+      "similarity": 0.1434
+    },
+    {
+      "category_id": 5027,
+      "similarity": 0.1296
+    },
+    {
+      "category_id": 5894,
+      "similarity": 0.1289
+    }
+  ],
+  "2825": [
+    {
+      "category_id": 13230,
+      "similarity": 0.2826
+    },
+    {
+      "category_id": 5689,
+      "similarity": 0.2504
+    },
+    {
+      "category_id": 10533,
+      "similarity": 0.1946
+    },
+    {
+      "category_id": 5894,
+      "similarity": 0.1744
+    },
+    {
+      "category_id": 5399,
+      "similarity": 0.1543
+    }
+  ],
+  "3064": [
+    {
+      "category_id": 7995,
+      "similarity": 0.3053
+    },
+    {
+      "category_id": 11623,
+      "similarity": 0.1598
+    },
+    {
+      "category_id": 4296,
+      "similarity": 0.1123
+    },
+    {
+      "category_id": 2825,
+      "similarity": 0.0871
+    },
+    {
+      "category_id": 6513,
+      "similarity": 0.0543
+    }
+  ],
+  "3381": [
+    {
+      "category_id": 3628,
+      "similarity": 0.1183
+    },
+    {
+      "category_id": 552,
+      "similarity": 0.0903
+    },
+    {
+      "category_id": 11623,
+      "similarity": 0.0857
+    },
+    {
+      "category_id": 5027,
+      "similarity": 0.0805
+    },
+    {
+      "category_id": 2825,
+      "similarity": 0.0646
+    }
+  ],
+  "3424": [
+    {
+      "category_id": 552,
+      "similarity": 0.0652
+    },
+    {
+      "category_id": 5027,
+      "similarity": 0.0619
+    },
+    {
+      "category_id": 6054,
+      "similarity": 0.0583
+    },
+    {
+      "category_id": 1863,
+      "similarity": 0.0517
+    },
+    {
+      "category_id": 11552,
+      "similarity": 0.0483
+    }
+  ],
+  "3628": [
+    {
+      "category_id": 3381,
+      "similarity": 0.1183
+    },
+    {
+      "category_id": 5232,
+      "similarity": 0.0742
+    },
+    {
+      "category_id": 5399,
+      "similarity": 0.0711
+    },
+    {
+      "category_id": 6344,
+      "similarity": 0.0668
+    },
+    {
+      "category_id": 5689,
+      "similarity": 0.0664
+    }
+  ],
+  "3662": [
+    {
+      "category_id": 5232,
+      "similarity": 0.1225
+    },
+    {
+      "category_id": 5027,
+      "similarity": 0.1197
+    },
+    {
+      "category_id": 2825,
+      "similarity": 0.0996
+    },
+    {
+      "category_id": 8877,
+      "similarity": 0.0972
+    },
+    {
+      "category_id": 13230,
+      "similarity": 0.0969
+    }
+  ],
+  "3673": [
+    {
+      "category_id": 11552,
+      "similarity": 0.0967
+    },
+    {
+      "category_id": 10894,
+      "similarity": 0.0642
+    },
+    {
+      "category_id": 3628,
+      "similarity": 0.0619
+    },
+    {
+      "category_id": 5232,
+      "similarity": 0.0567
+    },
+    {
+      "category_id": 3381,
+      "similarity": 0.0486
+    }
+  ],
+  "3783": [
+    {
+      "category_id": 5395,
+      "similarity": 0.3038
+    },
+    {
+      "category_id": 5894,
+      "similarity": 0.1646
+    },
+    {
+      "category_id": 1863,
+      "similarity": 0.1274
+    },
+    {
+      "category_id": 6054,
+      "similarity": 0.1107
+    },
+    {
+      "category_id": 5399,
+      "similarity": 0.1017
+    }
+  ],
+  "4296": [
+    {
+      "category_id": 3064,
+      "similarity": 0.1123
+    },
+    {
+      "category_id": 7995,
+      "similarity": 0.0924
+    },
+    {
+      "category_id": 9516,
+      "similarity": 0.0733
+    },
+    {
+      "category_id": 9247,
+      "similarity": 0.0524
+    },
+    {
+      "category_id": 5894,
+      "similarity": 0.0356
+    }
+  ],
+  "4370": [
+    {
+      "category_id": 2825,
+      "similarity": 0.1467
+    },
+    {
+      "category_id": 13230,
+      "similarity": 0.1351
+    },
+    {
+      "category_id": 10533,
+      "similarity": 0.1275
+    },
+    {
+      "category_id": 1863,
+      "similarity": 0.1213
+    },
+    {
+      "category_id": 5399,
+      "similarity": 0.1209
+    }
+  ],
+  "5027": [
+    {
+      "category_id": 5399,
+      "similarity": 0.2889
+    },
+    {
+      "category_id": 13230,
+      "similarity": 0.2609
+    },
+    {
+      "category_id": 5395,
+      "similarity": 0.214
+    },
+    {
+      "category_id": 9247,
+      "similarity": 0.1932
+    },
+    {
+      "category_id": 1838,
+      "similarity": 0.1914
+    }
+  ],
+  "5232": [
+    {
+      "category_id": 6513,
+      "similarity": 0.1251
+    },
+    {
+      "category_id": 3662,
+      "similarity": 0.1225
+    },
+    {
+      "category_id": 9516,
+      "similarity": 0.1187
+    },
+    {
+      "category_id": 8877,
+      "similarity": 0.1149
+    },
+    {
+      "category_id": 14079,
+      "similarity": 0.106
+    }
+  ],
+  "5395": [
+    {
+      "category_id": 3783,
+      "similarity": 0.3038
+    },
+    {
+      "category_id": 5399,
+      "similarity": 0.2275
+    },
+    {
+      "category_id": 5027,
+      "similarity": 0.214
+    },
+    {
+      "category_id": 13230,
+      "similarity": 0.1921
+    },
+    {
+      "category_id": 1863,
+      "similarity": 0.1717
+    }
+  ],
+  "5399": [
+    {
+      "category_id": 5027,
+      "similarity": 0.2889
+    },
+    {
+      "category_id": 14079,
+      "similarity": 0.2372
+    },
+    {
+      "category_id": 5395,
+      "similarity": 0.2275
+    },
+    {
+      "category_id": 13230,
+      "similarity": 0.223
+    },
+    {
+      "category_id": 2825,
+      "similarity": 0.1543
+    }
+  ],
+  "5503": [
+    {
+      "category_id": 6513,
+      "similarity": 0.1292
+    },
+    {
+      "category_id": 4370,
+      "similarity": 0.1169
+    },
+    {
+      "category_id": 2825,
+      "similarity": 0.112
+    },
+    {
+      "category_id": 13230,
+      "similarity": 0.1098
+    },
+    {
+      "category_id": 5027,
+      "similarity": 0.1067
+    }
+  ],
+  "5689": [
+    {
+      "category_id": 2825,
+      "similarity": 0.2504
+    },
+    {
+      "category_id": 10533,
+      "similarity": 0.2408
+    },
+    {
+      "category_id": 6513,
+      "similarity": 0.2159
+    },
+    {
+      "category_id": 13230,
+      "similarity": 0.2133
+    },
+    {
+      "category_id": 5894,
+      "similarity": 0.1658
+    }
+  ],
+  "5894": [
+    {
+      "category_id": 13230,
+      "similarity": 0.2117
+    },
+    {
+      "category_id": 14079,
+      "similarity": 0.1891
+    },
+    {
+      "category_id": 2825,
+      "similarity": 0.1744
+    },
+    {
+      "category_id": 5689,
+      "similarity": 0.1658
+    },
+    {
+      "category_id": 3783,
+      "similarity": 0.1646
+    }
+  ],
+  "6000": [
+    {
+      "category_id": 1863,
+      "similarity": 0.0664
+    },
+    {
+      "category_id": 5399,
+      "similarity": 0.0509
+    },
+    {
+      "category_id": 5395,
+      "similarity": 0.0492
+    },
+    {
+      "category_id": 10894,
+      "similarity": 0.0425
+    },
+    {
+      "category_id": 14079,
+      "similarity": 0.0389
+    }
+  ],
+  "6054": [
+    {
+      "category_id": 5894,
+      "similarity": 0.1517
+    },
+    {
+      "category_id": 5689,
+      "similarity": 0.1438
+    },
+    {
+      "category_id": 13230,
+      "similarity": 0.1356
+    },
+    {
+      "category_id": 2825,
+      "similarity": 0.1244
+    },
+    {
+      "category_id": 1863,
+      "similarity": 0.1189
+    }
+  ],
+  "6255": [
+    {
+      "category_id": 5395,
+      "similarity": 0.1068
+    },
+    {
+      "category_id": 3783,
+      "similarity": 0.0949
+    },
+    {
+      "category_id": 5503,
+      "similarity": 0.0882
+    },
+    {
+      "category_id": 11824,
+      "similarity": 0.0858
+    },
+    {
+      "category_id": 2825,
+      "similarity": 0.0798
+    }
+  ],
+  "6344": [
+    {
+      "category_id": 5027,
+      "similarity": 0.159
+    },
+    {
+      "category_id": 1838,
+      "similarity": 0.1433
+    },
+    {
+      "category_id": 5894,
+      "similarity": 0.1143
+    },
+    {
+      "category_id": 5399,
+      "similarity": 0.0995
+    },
+    {
+      "category_id": 5689,
+      "similarity": 0.096
+    }
+  ],
+  "6513": [
+    {
+      "category_id": 5689,
+      "similarity": 0.2159
+    },
+    {
+      "category_id": 13230,
+      "similarity": 0.2058
+    },
+    {
+      "category_id": 2825,
+      "similarity": 0.1533
+    },
+    {
+      "category_id": 5894,
+      "similarity": 0.1492
+    },
+    {
+      "category_id": 5503,
+      "similarity": 0.1292
+    }
+  ],
+  "7995": [
+    {
+      "category_id": 3064,
+      "similarity": 0.3053
+    },
+    {
+      "category_id": 11623,
+      "similarity": 0.1107
+    },
+    {
+      "category_id": 4296,
+      "similarity": 0.0924
+    },
+    {
+      "category_id": 3381,
+      "similarity": 0.0636
+    },
+    {
+      "category_id": 5894,
+      "similarity": 0.0449
+    }
+  ],
+  "8877": [
+    {
+      "category_id": 1083,
+      "similarity": 0.1159
+    },
+    {
+      "category_id": 13230,
+      "similarity": 0.1152
+    },
+    {
+      "category_id": 5232,
+      "similarity": 0.1149
+    },
+    {
+      "category_id": 5894,
+      "similarity": 0.1033
+    },
+    {
+      "category_id": 3662,
+      "similarity": 0.0972
+    }
+  ],
+  "9247": [
+    {
+      "category_id": 5027,
+      "similarity": 0.1932
+    },
+    {
+      "category_id": 9516,
+      "similarity": 0.1453
+    },
+    {
+      "category_id": 13230,
+      "similarity": 0.1018
+    },
+    {
+      "category_id": 8877,
+      "similarity": 0.0894
+    },
+    {
+      "category_id": 1838,
+      "similarity": 0.0854
+    }
+  ],
+  "9516": [
+    {
+      "category_id": 9247,
+      "similarity": 0.1453
+    },
+    {
+      "category_id": 5232,
+      "similarity": 0.1187
+    },
+    {
+      "category_id": 6054,
+      "similarity": 0.1093
+    },
+    {
+      "category_id": 5027,
+      "similarity": 0.097
+    },
+    {
+      "category_id": 4370,
+      "similarity": 0.0944
+    }
+  ],
+  "10392": [
+    {
+      "category_id": 13230,
+      "similarity": 0.1202
+    },
+    {
+      "category_id": 5689,
+      "similarity": 0.0964
+    },
+    {
+      "category_id": 5503,
+      "similarity": 0.0844
+    },
+    {
+      "category_id": 10894,
+      "similarity": 0.0837
+    },
+    {
+      "category_id": 5027,
+      "similarity": 0.0802
+    }
+  ],
+  "10431": [
+    {
+      "category_id": 3424,
+      "similarity": 0.0319
+    },
+    {
+      "category_id": 13230,
+      "similarity": 0.0259
+    },
+    {
+      "category_id": 1863,
+      "similarity": 0.019
+    },
+    {
+      "category_id": 10894,
+      "similarity": 0.0182
+    },
+    {
+      "category_id": 10533,
+      "similarity": 0.0156
+    }
+  ],
+  "10533": [
+    {
+      "category_id": 5689,
+      "similarity": 0.2408
+    },
+    {
+      "category_id": 13230,
+      "similarity": 0.2185
+    },
+    {
+      "category_id": 2825,
+      "similarity": 0.1946
+    },
+    {
+      "category_id": 5894,
+      "similarity": 0.1501
+    },
+    {
+      "category_id": 11279,
+      "similarity": 0.1412
+    }
+  ],
+  "10894": [
+    {
+      "category_id": 2825,
+      "similarity": 0.1442
+    },
+    {
+      "category_id": 5689,
+      "similarity": 0.1357
+    },
+    {
+      "category_id": 13230,
+      "similarity": 0.1129
+    },
+    {
+      "category_id": 6513,
+      "similarity": 0.1125
+    },
+    {
+      "category_id": 1863,
+      "similarity": 0.1119
+    }
+  ],
+  "11279": [
+    {
+      "category_id": 5689,
+      "similarity": 0.1513
+    },
+    {
+      "category_id": 13230,
+      "similarity": 0.1453
+    },
+    {
+      "category_id": 10533,
+      "similarity": 0.1412
+    },
+    {
+      "category_id": 2825,
+      "similarity": 0.1266
+    },
+    {
+      "category_id": 5894,
+      "similarity": 0.124
+    }
+  ],
+  "11552": [
+    {
+      "category_id": 5399,
+      "similarity": 0.1249
+    },
+    {
+      "category_id": 3673,
+      "similarity": 0.0967
+    },
+    {
+      "category_id": 14079,
+      "similarity": 0.0947
+    },
+    {
+      "category_id": 5395,
+      "similarity": 0.0804
+    },
+    {
+      "category_id": 5894,
+      "similarity": 0.0784
+    }
+  ],
+  "11623": [
+    {
+      "category_id": 3064,
+      "similarity": 0.1598
+    },
+    {
+      "category_id": 7995,
+      "similarity": 0.1107
+    },
+    {
+      "category_id": 3381,
+      "similarity": 0.0857
+    },
+    {
+      "category_id": 552,
+      "similarity": 0.0629
+    },
+    {
+      "category_id": 6513,
+      "similarity": 0.0445
+    }
+  ],
+  "11824": [
+    {
+      "category_id": 5894,
+      "similarity": 0.1172
+    },
+    {
+      "category_id": 4370,
+      "similarity": 0.0948
+    },
+    {
+      "category_id": 3783,
+      "similarity": 0.0927
+    },
+    {
+      "category_id": 6255,
+      "similarity": 0.0858
+    },
+    {
+      "category_id": 6513,
+      "similarity": 0.0776
+    }
+  ],
+  "13230": [
+    {
+      "category_id": 2825,
+      "similarity": 0.2826
+    },
+    {
+      "category_id": 5027,
+      "similarity": 0.2609
+    },
+    {
+      "category_id": 14079,
+      "similarity": 0.2536
+    },
+    {
+      "category_id": 5399,
+      "similarity": 0.223
+    },
+    {
+      "category_id": 10533,
+      "similarity": 0.2185
+    }
+  ],
+  "14079": [
+    {
+      "category_id": 13230,
+      "similarity": 0.2536
+    },
+    {
+      "category_id": 5399,
+      "similarity": 0.2372
+    },
+    {
+      "category_id": 5894,
+      "similarity": 0.1891
+    },
+    {
+      "category_id": 5027,
+      "similarity": 0.1702
+    },
+    {
+      "category_id": 5395,
+      "similarity": 0.1493
+    }
+  ]
+}

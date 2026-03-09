@@ -1,0 +1,55 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "product_name": "DEAR SEED 玫瑰修护洗发水",
+    "category": "洗护/修护洗发",
+    "selling_points": ["修护", "柔顺", "玫瑰香氛"],
+    "price_range": "100-150元",
+    "target_user": "学生党女性用户",
+    "platform": "小红书",
+    "potential_score": 8.2,
+    "score_percentile": 83,
+    "score_level": "高潜力",
+    "score_color": "#E74C3C",
+    "factor_breakdown": {
+      "tag_match": { "score": 8.5, "weight": 0.4, "desc": "功效标签与平台热词高度匹配（修护/柔顺/香氛均为高权重词）" },
+      "price_competitiveness": { "score": 8.0, "weight": 0.3, "desc": "100-150元价格带在目标人群中接受度高，竞争强度适中" },
+      "scene_adaptability": { "score": 8.1, "weight": 0.2, "desc": "宿舍场景与目标人群日常高度吻合，场景卖点可感知" },
+      "platform_heat": { "score": 7.6, "weight": 0.1, "desc": "小红书洗护类内容月均热度指数76/100，处于上升趋势" }
+    },
+    "target_personas": [
+      {
+        "persona": "宿舍学生党",
+        "match_score": 92,
+        "desc": "预算有限，注重顺滑感和香味，复购意愿强",
+        "platform_priority": "小红书",
+        "content_preference": "真实分享+宿舍场景"
+      },
+      {
+        "persona": "价格敏感型年轻女性",
+        "match_score": 78,
+        "desc": "关注性价比和口碑，容易被种草内容影响",
+        "platform_priority": "抖音",
+        "content_preference": "测评对比+价格明示"
+      },
+      {
+        "persona": "换季护发用户",
+        "match_score": 65,
+        "desc": "季节性购买，关注修护效果和成分安全",
+        "platform_priority": "小红书",
+        "content_preference": "场景触发+功效说明"
+      }
+    ],
+    "best_promotion_times": [
+      { "time": "9月开学季（8月底-9月中）", "reason": "宿舍洗护需求集中爆发，学生党集中入学", "heat_index": 92 },
+      { "time": "双十一前窗口（10月中旬）", "reason": "种草内容提前布局，用户对比选品高峰", "heat_index": 85 },
+      { "time": "春节后复学季（2月下旬）", "reason": "返校置换洗护用品，小预算高频购买节点", "heat_index": 74 }
+    ],
+    "risk_alerts": [
+      "当前竞品中已有3款同价格带修护洗发水投入种草，建议在玫瑰香氛差异化方向加大内容密度。",
+      "学生党复购决策周期约4-6周，建议种草内容配合加购提醒（如收藏引流），缩短决策路径。"
+    ],
+    "data_notice": "当前为校赛MVP概念验证版本，预测结果基于公开样本数据与标签权重模型。"
+  }
+}

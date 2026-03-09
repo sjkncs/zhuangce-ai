@@ -1,0 +1,13 @@
+{
+  "algorithm": "Contrastive Learning for Recommendation (SimCLR-style)",
+  "paper": "Wu et al., SGL, SIGIR 2021",
+  "n_users": 177,
+  "temperature": 0.5,
+  "infonce_loss": 3.5184,
+  "pos_sim_mean": 0.8836,
+  "neg_sim_mean": 0.0371,
+  "original_silhouette": 0.131,
+  "enhanced_silhouette": 0.1704,
+  "improvement_pct": 30.01,
+  "best_k": 5
+}

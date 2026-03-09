@@ -1,0 +1,63 @@
+{
+  "rules": [
+    {
+      "antecedent": 11497,
+      "consequent": 14079,
+      "support": 0.0108,
+      "confidence": 0.6667,
+      "lift": 24.8
+    },
+    {
+      "antecedent": 14079,
+      "consequent": 11497,
+      "support": 0.0108,
+      "confidence": 0.4,
+      "lift": 24.8
+    },
+    {
+      "antecedent": 6513,
+      "consequent": 11481,
+      "support": 0.0108,
+      "confidence": 0.2,
+      "lift": 12.4
+    },
+    {
+      "antecedent": 11481,
+      "consequent": 6513,
+      "support": 0.0108,
+      "confidence": 0.6667,
+      "lift": 12.4
+    },
+    {
+      "antecedent": 1863,
+      "consequent": 9820,
+      "support": 0.0108,
+      "confidence": 0.2,
+      "lift": 12.4
+    },
+    {
+      "antecedent": 9820,
+      "consequent": 1863,
+      "support": 0.0108,
+      "confidence": 0.6667,
+      "lift": 12.4
+    },
+    {
+      "antecedent": 10533,
+      "consequent": 11279,
+      "support": 0.0108,
+      "confidence": 0.2857,
+      "lift": 7.5918
+    },
+    {
+      "antecedent": 11279,
+      "consequent": 10533,
+      "support": 0.0108,
+      "confidence": 0.2857,
+      "lift": 7.5918
+    }
+  ],
+  "total_transactions": 186,
+  "min_support": 0.01,
+  "min_confidence": 0.12
+}

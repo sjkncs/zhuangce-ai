@@ -1,0 +1,87 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "top_products": [
+      {
+        "rank": 1,
+        "name": "DEAR SEED 玫瑰修护洗发水",
+        "category": "洗护/修护洗发",
+        "price_range": "100-150元",
+        "match_score": 92,
+        "match_reason": "修护+柔顺+香氛三维标签与宿舍学生党高度吻合",
+        "recommended_scenes": ["宿舍日常", "开学季", "日常复购"],
+        "target_personas": ["学生党", "价格敏感型年轻女性"],
+        "content_directions": ["宿舍好物分享", "顺滑感真实测评", "玫瑰香氛情绪种草"],
+        "platform_strategy": {
+          "xhs": "真实宿舍场景图文，强调顺滑感和香味留存",
+          "douyin": "15秒顺滑对比视频，展示使用前后发质变化",
+          "bilibili": "深度测评+成分解析，面向精致护发用户"
+        },
+        "roi_estimate": {
+          "content_cost": 2000,
+          "expected_reach": 50000,
+          "conversion_rate": "2.5%",
+          "expected_orders": 125,
+          "expected_revenue": 15000,
+          "roi": "7.5x"
+        }
+      },
+      {
+        "rank": 2,
+        "name": "玫瑰香氛护手霜（联名推荐）",
+        "category": "护手/香氛",
+        "price_range": "50-100元",
+        "match_score": 78,
+        "match_reason": "香氛系列延伸，可与主推品形成组合购买",
+        "recommended_scenes": ["宿舍日常", "礼品场景"],
+        "target_personas": ["学生党", "年轻女性用户"],
+        "content_directions": ["香氛系列组合种草", "宿舍桌面美化好物"],
+        "platform_strategy": {
+          "xhs": "与洗发水同场景搭配种草，打造香氛宿舍氛围",
+          "douyin": "开学季宿舍好物盘点，作为组合单品出现"
+        },
+        "roi_estimate": {
+          "content_cost": 800,
+          "expected_reach": 20000,
+          "conversion_rate": "2.0%",
+          "expected_orders": 40,
+          "expected_revenue": 3200,
+          "roi": "4.0x"
+        }
+      },
+      {
+        "rank": 3,
+        "name": "校园洗护礼盒（开学季组合）",
+        "category": "洗护/礼品装",
+        "price_range": "150-200元",
+        "match_score": 65,
+        "match_reason": "礼品属性吻合开学季赠礼场景，客单价提升明显",
+        "recommended_scenes": ["开学季", "宿舍礼品"],
+        "target_personas": ["学生党家长", "好友送礼场景"],
+        "content_directions": ["开学礼物推荐", "宿舍室友互赠好物"],
+        "platform_strategy": {
+          "xhs": "开学礼物清单内容，以「送给室友」为钩子",
+          "douyin": "开学季组合测评，强调礼盒包装和组合价值"
+        },
+        "roi_estimate": {
+          "content_cost": 1500,
+          "expected_reach": 30000,
+          "conversion_rate": "1.5%",
+          "expected_orders": 45,
+          "expected_revenue": 7875,
+          "roi": "5.25x"
+        }
+      }
+    ],
+    "decision_summary": {
+      "primary_recommendation": "DEAR SEED 玫瑰修护洗发水",
+      "core_strategy": "以宿舍场景为切入口，修护+柔顺+玫瑰香氛为内容三角，精准种草学生党",
+      "budget_suggestion": "建议首批内容预算2000-3000元，小红书达人KOC（1-5万粉）矩阵投放",
+      "time_window": "8月底-9月中开学季窗口期，提前2周布局内容预热",
+      "risk_level": "低风险",
+      "confidence": 85
+    },
+    "data_notice": "当前为校赛MVP概念验证版本，推荐结果基于标签匹配算法与模拟数据。"
+  }
+}

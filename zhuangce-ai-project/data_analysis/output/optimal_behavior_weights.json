@@ -1,0 +1,58 @@
+{
+  "optimal_weights": {
+    "浏览": 1,
+    "收藏": 3,
+    "加购物车": 5,
+    "购买": 5
+  },
+  "optimal_separation": 2.1075,
+  "default_weights": {
+    "浏览": 1,
+    "收藏": 2,
+    "加购物车": 3,
+    "购买": 5
+  },
+  "total_configs_tested": 12,
+  "top5_configs": [
+    {
+      "w_browse": 1,
+      "w_collect": 3,
+      "w_cart": 5,
+      "separation": 2.1075,
+      "purchase_mean": 160.0303,
+      "nopurchase_mean": 75.9355
+    },
+    {
+      "w_browse": 1,
+      "w_collect": 2,
+      "w_cart": 5,
+      "separation": 2.1061,
+      "purchase_mean": 157.2525,
+      "nopurchase_mean": 74.6667
+    },
+    {
+      "w_browse": 1,
+      "w_collect": 1,
+      "w_cart": 5,
+      "separation": 2.1046,
+      "purchase_mean": 154.4747,
+      "nopurchase_mean": 73.3978
+    },
+    {
+      "w_browse": 1,
+      "w_collect": 3,
+      "w_cart": 4,
+      "separation": 2.0886,
+      "purchase_mean": 155.5455,
+      "nopurchase_mean": 74.4731
+    },
+    {
+      "w_browse": 1,
+      "w_collect": 2,
+      "w_cart": 4,
+      "separation": 2.0869,
+      "purchase_mean": 152.7677,
+      "nopurchase_mean": 73.2043
+    }
+  ]
+}

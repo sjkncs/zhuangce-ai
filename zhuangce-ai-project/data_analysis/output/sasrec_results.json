@@ -1,0 +1,11 @@
+{
+  "algorithm": "SASRec (Self-Attentive Sequential Recommendation)",
+  "paper": "Kang & McAuley, ICDM 2018",
+  "n_users": 180,
+  "n_items": 1929,
+  "embed_dim": 32,
+  "HR@10": 0.0056,
+  "NDCG@10": 0.0024,
+  "random_baseline_HR@10": 0.005184,
+  "improvement_over_random": 1.07
+}

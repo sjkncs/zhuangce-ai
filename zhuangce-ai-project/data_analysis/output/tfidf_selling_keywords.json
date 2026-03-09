@@ -1,0 +1,254 @@
+{
+  "top_keywords": [
+    {
+      "word": "提取物",
+      "tfidf_score": 13.7566
+    },
+    {
+      "word": "积雪草",
+      "tfidf_score": 6.9978
+    },
+    {
+      "word": "修护",
+      "tfidf_score": 6.9385
+    },
+    {
+      "word": "甘草",
+      "tfidf_score": 6.9113
+    },
+    {
+      "word": "生育",
+      "tfidf_score": 5.8578
+    },
+    {
+      "word": "保湿",
+      "tfidf_score": 5.8191
+    },
+    {
+      "word": "乙酸酯",
+      "tfidf_score": 5.7362
+    },
+    {
+      "word": "虎杖",
+      "tfidf_score": 5.7091
+    },
+    {
+      "word": "进口",
+      "tfidf_score": 5.3307
+    },
+    {
+      "word": "专利",
+      "tfidf_score": 5.3285
+    },
+    {
+      "word": "白池",
+      "tfidf_score": 5.308
+    },
+    {
+      "word": "甲基",
+      "tfidf_score": 5.0071
+    },
+    {
+      "word": "甘草酸",
+      "tfidf_score": 4.9786
+    },
+    {
+      "word": "控油",
+      "tfidf_score": 4.9551
+    },
+    {
+      "word": "果油",
+      "tfidf_score": 4.9512
+    },
+    {
+      "word": "葡糖",
+      "tfidf_score": 4.9512
+    },
+    {
+      "word": "甘油",
+      "tfidf_score": 4.8887
+    },
+    {
+      "word": "持妆",
+      "tfidf_score": 4.8818
+    },
+    {
+      "word": "二钾",
+      "tfidf_score": 4.8265
+    },
+    {
+      "word": "油橄榄",
+      "tfidf_score": 4.7802
+    },
+    {
+      "word": "酸钠",
+      "tfidf_score": 4.7184
+    },
+    {
+      "word": "肌肤",
+      "tfidf_score": 4.7018
+    },
+    {
+      "word": "花籽",
+      "tfidf_score": 4.6769
+    },
+    {
+      "word": "精华",
+      "tfidf_score": 4.5593
+    },
+    {
+      "word": "透明质",
+      "tfidf_score": 4.5253
+    },
+    {
+      "word": "淡斑",
+      "tfidf_score": 4.4188
+    },
+    {
+      "word": "美白",
+      "tfidf_score": 4.2994
+    },
+    {
+      "word": "设计",
+      "tfidf_score": 4.126
+    },
+    {
+      "word": "介绍",
+      "tfidf_score": 4.126
+    },
+    {
+      "word": "舒缓",
+      "tfidf_score": 3.8416
+    },
+    {
+      "word": "抗皱",
+      "tfidf_score": 3.6314
+    },
+    {
+      "word": "四氢",
+      "tfidf_score": 3.4977
+    },
+    {
+      "word": "嘧啶",
+      "tfidf_score": 3.4977
+    },
+    {
+      "word": "羧酸",
+      "tfidf_score": 3.4977
+    },
+    {
+      "word": "洋甘菊",
+      "tfidf_score": 3.2808
+    },
+    {
+      "word": "维生素",
+      "tfidf_score": 3.2132
+    },
+    {
+      "word": "植物",
+      "tfidf_score": 3.1024
+    },
+    {
+      "word": "护理",
+      "tfidf_score": 3.0185
+    },
+    {
+      "word": "德国",
+      "tfidf_score": 2.9941
+    },
+    {
+      "word": "抑制",
+      "tfidf_score": 2.7317
+    },
+    {
+      "word": "复合物",
+      "tfidf_score": 2.6905
+    },
+    {
+      "word": "架构",
+      "tfidf_score": 2.6784
+    },
+    {
+      "word": "风格",
+      "tfidf_score": 2.6784
+    },
+    {
+      "word": "多糖",
+      "tfidf_score": 2.6784
+    },
+    {
+      "word": "细胞",
+      "tfidf_score": 2.645
+    },
+    {
+      "word": "粉体",
+      "tfidf_score": 2.6239
+    },
+    {
+      "word": "抗炎",
+      "tfidf_score": 2.6003
+    },
+    {
+      "word": "雅诗兰黛",
+      "tfidf_score": 2.5667
+    },
+    {
+      "word": "报关单",
+      "tfidf_score": 2.4756
+    },
+    {
+      "word": "小白瓶",
+      "tfidf_score": 2.4756
+    },
+    {
+      "word": "活性",
+      "tfidf_score": 2.4603
+    },
+    {
+      "word": "温和",
+      "tfidf_score": 2.4484
+    },
+    {
+      "word": "麦角",
+      "tfidf_score": 2.3786
+    },
+    {
+      "word": "保护",
+      "tfidf_score": 2.2244
+    },
+    {
+      "word": "紧致",
+      "tfidf_score": 2.2239
+    },
+    {
+      "word": "主要",
+      "tfidf_score": 2.1977
+    },
+    {
+      "word": "精华液",
+      "tfidf_score": 2.1826
+    },
+    {
+      "word": "损伤",
+      "tfidf_score": 2.1462
+    },
+    {
+      "word": "炎症",
+      "tfidf_score": 2.1149
+    },
+    {
+      "word": "螺旋藻",
+      "tfidf_score": 2.1069
+    }
+  ],
+  "keyword_to_efficacy": {
+    "积雪草": "修护",
+    "修护": "修护",
+    "控油": "控油",
+    "甘油": "保湿",
+    "淡斑": "美白",
+    "美白": "美白",
+    "紧致": "抗衰"
+  },
+  "total_docs": 155
+}

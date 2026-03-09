@@ -1,0 +1,17 @@
+{
+  "algorithm": "LightGCN (Light Graph Convolutional Network)",
+  "paper": "He et al., SIGIR 2020",
+  "n_users": 156,
+  "n_items": 1136,
+  "n_interactions": 1174,
+  "n_gcn_layers": 3,
+  "embed_dim": 32,
+  "HR@10": 0.8413,
+  "NDCG@10": 0.7031,
+  "layer_norms": [
+    0.5611,
+    0.2239,
+    0.2264,
+    0.2239
+  ]
+}

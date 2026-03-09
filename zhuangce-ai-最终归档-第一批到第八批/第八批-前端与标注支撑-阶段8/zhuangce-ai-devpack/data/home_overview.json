@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": {
+    "project_name": "妆策AI",
+    "project_slogan": "让品牌用预测代替试错，让增长更聪明",
+    "current_stage": "校赛MVP",
+    "data_notice": "当前结果基于公开样本数据与模拟验证逻辑生成",
+    "sample_product": {
+      "sample_product_name": "DEAR SEED 玫瑰修护洗发水",
+      "primary_category": "洗护",
+      "secondary_category": "修护洗发",
+      "core_selling_points": [
+        "修护",
+        "柔顺",
+        "玫瑰香氛"
+      ],
+      "target_price_range": "100-150元",
+      "target_user_group": "学生党女性用户"
+    },
+    "core_cards": {
+      "potential_score": 8.2,
+      "target_persona_summary": "学生党、宿舍场景、价格敏感型用户",
+      "top_scene_tags": [
+        "宿舍日常",
+        "开学季"
+      ],
+      "platform_priority": [
+        "小红书",
+        "社群私域",
+        "视频号"
+      ]
+    }
+  }
+}

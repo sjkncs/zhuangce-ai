@@ -1,0 +1,15 @@
+{
+  "model": "sklearn_GBDT",
+  "auc": 0.9993,
+  "feature_importance": {
+    "browse_cnt": 0.4336,
+    "collect_cnt": 0.0684,
+    "cart_cnt": 0.172,
+    "total_weight": 0.2868,
+    "cat_diversity": 0.0295,
+    "fav_hour": 0.0098
+  },
+  "top_feature": "browse_cnt",
+  "train_size": 5753,
+  "test_size": 1439
+}

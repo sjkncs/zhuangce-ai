@@ -1,0 +1,59 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "project_name": "妆策AI · 美妆新零售智能推荐系统",
+    "project_version": "MVP v1.0 校赛版",
+    "sample_product": {
+      "name": "DEAR SEED 玫瑰修护洗发水",
+      "category": "洗护/修护洗发",
+      "price_range": "100-150元",
+      "target_user": "学生党女性用户",
+      "core_tags": ["修护", "柔顺", "玫瑰香氛", "宿舍友好", "高性价比"],
+      "potential_score": 8.2,
+      "score_percentile": 83
+    },
+    "seasonal_tip": "当前为开学季，宿舍场景内容热度上升约34%，建议优先布局修护柔顺+玫瑰香氛方向内容",
+    "core_insights": [
+      {
+        "label": "爆款预测评分",
+        "value": "8.2 / 10",
+        "desc": "超越同类83%产品",
+        "icon": "trending_up",
+        "color": "#E74C3C"
+      },
+      {
+        "label": "高潜主力人群",
+        "value": "学生党",
+        "desc": "占潜力人群58%",
+        "icon": "person",
+        "color": "#3498DB"
+      },
+      {
+        "label": "最优投放场景",
+        "value": "宿舍日常",
+        "desc": "共现频率最高",
+        "icon": "home",
+        "color": "#27AE60"
+      },
+      {
+        "label": "最佳推广时段",
+        "value": "9月开学季",
+        "desc": "流量峰值窗口期",
+        "icon": "calendar",
+        "color": "#9B59B6"
+      }
+    ],
+    "persona_distribution": [
+      { "name": "学生党", "value": 58 },
+      { "name": "价格敏感型", "value": 24 },
+      { "name": "年轻女性用户", "value": 18 }
+    ],
+    "platform_priority": [
+      { "name": "小红书", "value": 55 },
+      { "name": "抖音", "value": 30 },
+      { "name": "B站", "value": 15 }
+    ],
+    "data_notice": "当前为校赛MVP概念验证版本，数据基于公开样本与模拟标注结果。"
+  }
+}

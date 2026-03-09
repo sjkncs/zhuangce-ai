@@ -1,0 +1,58 @@
+{
+  "n_categories": 1930,
+  "embed_dim": 32,
+  "explained_variance": 0.2331,
+  "n_sequences": 181,
+  "top10_similar_pairs": [
+    {
+      "cat_a": 6657,
+      "cat_b": 5631,
+      "similarity": 1.0
+    },
+    {
+      "cat_a": 5631,
+      "cat_b": 6657,
+      "similarity": 1.0
+    },
+    {
+      "cat_a": 7745,
+      "cat_b": 3341,
+      "similarity": 1.0
+    },
+    {
+      "cat_a": 7484,
+      "cat_b": 4768,
+      "similarity": 1.0
+    },
+    {
+      "cat_a": 3341,
+      "cat_b": 7745,
+      "similarity": 1.0
+    },
+    {
+      "cat_a": 5140,
+      "cat_b": 2603,
+      "similarity": 1.0
+    },
+    {
+      "cat_a": 4557,
+      "cat_b": 19,
+      "similarity": 1.0
+    },
+    {
+      "cat_a": 4768,
+      "cat_b": 7484,
+      "similarity": 1.0
+    },
+    {
+      "cat_a": 2603,
+      "cat_b": 5140,
+      "similarity": 1.0
+    },
+    {
+      "cat_a": 19,
+      "cat_b": 4557,
+      "similarity": 1.0
+    }
+  ]
+}

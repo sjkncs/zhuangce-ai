@@ -1,0 +1,45 @@
+{
+  "algorithm": "Thompson Sampling (Bayesian Exploration)",
+  "paper": "Chapelle & Li, NeurIPS 2011",
+  "n_arms": 10,
+  "n_rounds": 500,
+  "true_rates": [
+    0.3579,
+    0.3081,
+    0.2724,
+    0.2521,
+    0.2254,
+    0.1803,
+    0.1692,
+    0.1241,
+    0.0826,
+    0.0457
+  ],
+  "results": {
+    "thompson": {
+      "cumulative_reward": 155,
+      "regret": 23.93
+    },
+    "ucb1": {
+      "cumulative_reward": 135,
+      "regret": 43.93
+    },
+    "e_greedy": {
+      "cumulative_reward": 165,
+      "regret": 13.93
+    }
+  },
+  "winner": "ε-Greedy",
+  "arm_names": [
+    "品类11770",
+    "品类2091",
+    "品类6144",
+    "品类10019",
+    "品类6211",
+    "品类10043",
+    "品类10405",
+    "品类5942",
+    "品类11654",
+    "品类12309"
+  ]
+}

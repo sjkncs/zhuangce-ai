@@ -1,0 +1,48 @@
+{
+  "n_nodes": 1930,
+  "n_edges": 9674,
+  "damping": 0.85,
+  "top10": [
+    {
+      "category": 1863,
+      "pagerank": 0.021332
+    },
+    {
+      "category": 13230,
+      "pagerank": 0.02034
+    },
+    {
+      "category": 5894,
+      "pagerank": 0.019296
+    },
+    {
+      "category": 6513,
+      "pagerank": 0.017347
+    },
+    {
+      "category": 5027,
+      "pagerank": 0.016246
+    },
+    {
+      "category": 5399,
+      "pagerank": 0.015309
+    },
+    {
+      "category": 4370,
+      "pagerank": 0.010283
+    },
+    {
+      "category": 11279,
+      "pagerank": 0.010137
+    },
+    {
+      "category": 5232,
+      "pagerank": 0.009985
+    },
+    {
+      "category": 5689,
+      "pagerank": 0.009192
+    }
+  ],
+  "gini_coefficient": 0.4168
+}

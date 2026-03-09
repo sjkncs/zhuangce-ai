@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+.env
+.venv/
+venv/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.windsurf/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Project-specific: reference PPTXs (not original work)
+zhuangce-ai-最终归档-第一批到第八批/阿里人才诚聘.pptx
+zhuangce-ai-最终归档-第一批到第八批/跨境电商人才筛选.pptx
+
+# Deployment artifacts
+openclaw-deploy/
+openclaw-deploy.zip
+
+# Large generated data (reproducible via scripts)
+zhuangce-ai-project/data_analysis/output/clean_beauty_sales.xlsx
+
+# Windsurf rules
+.windsurfrules
+*/.windsurfrules
