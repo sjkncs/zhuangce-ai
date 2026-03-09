@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated SVG Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:0F3C78,100:00B4D8&height=220&section=header&text=🧴%20妆策AI%20·%20ZhuangCe%20AI&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Intelligent%20Recommendation%20%26%20Marketing%20Conversion%20Platform%20for%20Beauty%20New%20Retail&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1A2E,50:0F3C78,100:00B4D8&amp;height=220&amp;section=header&amp;text=🧴%20妆策AI%20·%20ZhuangCe%20AI&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Intelligent%20Recommendation%20%26%20Marketing%20Conversion%20Platform%20for%20Beauty%20New%20Retail&amp;descSize=16&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
 
 <br/>
 
@@ -674,7 +674,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:0F3C78,100:00B4D8&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1A2E,50:0F3C78,100:00B4D8&amp;height=120&amp;section=footer&amp;animation=fadeIn" width="100%"/>
 
 **Made with ❤️ by Team ZhuangCe AI**
 
