@@ -668,7 +668,13 @@ This project is licensed under the [MIT License](LICENSE).
 
 如果这个项目对你有帮助，请给一个 ⭐ Star 支持！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sjkncs/zhuangce-ai&type=Date)](https://www.star-history.com/#sjkncs/zhuangce-ai&Date)
+<a href="https://www.star-history.com/?repos=sjkncs%2Fzhuangce-ai&type=timeline&logscale=&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=sjkncs/zhuangce-ai&amp;type=timeline&amp;theme=dark&amp;logscale&amp;legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=sjkncs/zhuangce-ai&amp;type=timeline&amp;logscale&amp;legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=sjkncs/zhuangce-ai&amp;type=timeline&amp;logscale&amp;legend=top-left" />
+ </picture>
+</a>
 
 ---
 
