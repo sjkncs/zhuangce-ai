@@ -25,7 +25,7 @@
 <br/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=GBDT+Purchase+Prediction+AUC+%3D+0.9993;LightGCN+Graph+Recommendation+HR%4010+%3D+0.8413;Six-Dimension+Product+Scoring+System+%E2%9C%A8;AI-Powered+Content+Generation+Pipeline+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00B4D8&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=100&amp;lines=GBDT+Purchase+Prediction+AUC+%3D+0.9993;LightGCN+Graph+Recommendation+HR%4010+%3D+0.8413;Six-Dimension+Product+Scoring+System+%E2%9C%A8;AI-Powered+Content+Generation+Pipeline+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -669,6 +669,8 @@ This project is licensed under the [MIT License](LICENSE).
 如果这个项目对你有帮助，请给一个 ⭐ Star 支持！
 
 [![Star History Chart](https://api.star-history.com/svg?repos=sjkncs/zhuangce-ai&type=Date)](https://star-history.com/#sjkncs/zhuangce-ai&Date)
+
+> *Note: Star History chart will populate once the repository receives stars.*
 
 ---
 
