@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated SVG Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1A2E,50:0F3C78,100:00B4D8&amp;height=220&amp;section=header&amp;text=🧴%20妆策AI%20·%20ZhuangCe%20AI&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Intelligent%20Recommendation%20%26%20Marketing%20Conversion%20Platform%20for%20Beauty%20New%20Retail&amp;descSize=16&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1A2E,50:0F3C78,100:00B4D8&amp;height=220&amp;section=header&amp;text=🧴%20妆策AI%20·%20ZhuangCe%20AI&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Intelligent%20Recommendation%20and%20Marketing%20Conversion%20Platform%20for%20Beauty%20New%20Retail&amp;descSize=16&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
 
 <br/>
 
@@ -668,9 +668,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 如果这个项目对你有帮助，请给一个 ⭐ Star 支持！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sjkncs/zhuangce-ai&type=Date)](https://star-history.com/#sjkncs/zhuangce-ai&Date)
-
-> *Note: Star History chart will populate once the repository receives stars.*
+[![Star History Chart](https://api.star-history.com/svg?repos=sjkncs/zhuangce-ai&type=Date)](https://www.star-history.com/#sjkncs/zhuangce-ai&Date)
 
 ---
 
